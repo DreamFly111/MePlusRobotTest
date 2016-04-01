@@ -10,6 +10,6 @@ public class MainActivity extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //测试robot的提交
+        //测试robot的提交1，测试robot2
     }
 }
